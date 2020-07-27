@@ -1,0 +1,41 @@
+@use 'reset';
+
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno&family=Roboto&display=swap');
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(43, 43, 43);
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#main-section {
+    padding-top: 30vh;
+    text-align: center;
+}
+
+#title {
+    font-family: 'MuseoModerno', cursive;
+    font-size: 5rem;
+    user-select: none;
+    -webkit-user-select: none;
+    padding-bottom: 1vh;
+}
+
+.subtitle {
+    padding-top: 1vh;
+    font-size: 1.5rem;
+    font-family: 'MuseoModerno', cursive;
+}
+
+#main-social {
+    padding-top: 1rem;
+}
+.icon {
+    color: #fff;
+    font-size: 2rem;
+    margin: 0 0.5rem;
+}
