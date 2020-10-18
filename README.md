@@ -1,5 +1,5 @@
 # Mikey Landing Page
-![Screenshot of the project](https://raw.githubusercontent.com/WiGeeky/WiGeeky.github.io/master/screenshot.png)
+![Screenshot of the project](screenshot.png)
 
 This is the code for the landing page of my website ([accessible at mikey.ir](https://mikey.ir)), as of October 2020, this code is still in use.
 
